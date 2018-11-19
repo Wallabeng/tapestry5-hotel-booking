@@ -127,8 +127,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<configuration>
 					<encoding>UTF-8</encoding>
-					<source>1.5</source>
-					<target>1.5</target>
+					<source>${maven.compiler.source}</source>
+					<target>${maven.compiler.target}</target>
 					<optimize>true</optimize>
 				</configuration>
 			</plugin>
