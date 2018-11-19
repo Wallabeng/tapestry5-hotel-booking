@@ -3,7 +3,7 @@
 <head>
 	<title>Tapestry Hotel Booking Demo - ${pageTitle}</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
-    <script defer type="text/javascript" src="/hotels/ruxitagentjs_27SVfjqrtx_10153180914150608.js" data-dtconfig="app=FFF2BEA5015CBBAD|srms=1;1;;;|featureHash=27SVfjqrtx|dpvc=1|lastModification=0|dtVersion=10153180914150608|reportUrl=/hotels/rb_e5211528-7aae-4408-99e2-fed2bd6c3773|tp=500,50,0,1|rdnt=1"></script>
+    <script defer="defer" type="text/javascript" src="/hotels/ruxitagentjs_27SVfjqrtx_10153180914150608.js" data-dtconfig="app=FFF2BEA5015CBBAD|srms=1;1;;;|featureHash=27SVfjqrtx|dpvc=1|lastModification=0|dtVersion=10153180914150608|reportUrl=/hotels/rb_e5211528-7aae-4408-99e2-fed2bd6c3773|tp=500,50,0,1|rdnt=1"></script>
 </head>
 <body id="homepage">
 	<div class="container bs">
